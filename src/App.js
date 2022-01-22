@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { combineReducers } from "redux";
 
 import AddForm from './components/AddForm';
 import SmurfList from './components/SmurfList';
